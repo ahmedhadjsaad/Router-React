@@ -1,0 +1,36 @@
+.title-container {
+  text-align: center;
+  padding: 50px ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.searchbar {
+  outline: none;
+  width: 400px;
+}
+.image-movie {
+  width: 800px;
+  height: 400px;
+}
+.movielist-container{
+  text-align: center;
+  padding: 50px;
+}
+/* .lien {
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  list-style: none;
+  cursor: pointer;
+  
+} */
+
+.link {
+  list-style: none;
+  color: black;
+}
+.Nav {
+  display: flex;
+  justify-content: space-around;
+  width: 200px;
+}
